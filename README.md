@@ -24,10 +24,10 @@ I encourage you to visit his website: https://www.freecodecamp.org/learn. Also t
 :round_pushpin: Return Largest Numbers in Arrays.js
 :round_pushpin: Reverse a String.js
 
-### [:white_check_mark: Data structure challanges](https://github.com/lajobu/JavaScript_FreeCodeCamp/tree/master/Data structure challanges)
+### [:white_check_mark: Data structure challanges](https://github.com/lajobu/JavaScript_FreeCodeCamp/tree/master/Data%20structure%20challanges)
 :round_pushpin: Copy an Array with the Spread Operator.js
 :round_pushpin: Modify an Array Stored in an Object.js 
 
-### [:white_check_mark: Regular expressions](https://github.com/lajobu/JavaScript_FreeCodeCamp/tree/master/Data structure challanges)
+### [:white_check_mark: Regular expressions](https://github.com/lajobu/JavaScript_FreeCodeCamp/tree/master/Data%20structure%20challanges)
 :round_pushpin: Find One or More Criminals in a Hunt.js
 :round_pushpin: Restrict Possible Usernames.js 
